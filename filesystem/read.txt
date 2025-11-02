@@ -1,0 +1,14 @@
+fs commands
+
+async
+ 1. fs.writeFile // new file generate karna 
+ 2. fs.readFile // bani file read karna 
+ 3. fs.appendFile // bani file main new data add karna 
+ 4. fs.unlink // file delete karna
+	
+	folder generate or read karna
+	fs.mkdir // new folder generate karna 
+	fs.readdir  // folder read karna
+
+1. fs.write(filename,filetext,callback);
+2. fs.readFile('data.txt', 'utf8', callback)
