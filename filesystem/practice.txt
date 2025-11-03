@@ -1,0 +1,11 @@
+Day 3 Practice Tasks
+
+Ek message.txt file banao aur likho "Hello Node.js File System!"
+
+File me "Learning fs module" add karo
+
+File read karke content print karo
+
+Agar file exist karti hai to usse delete karo
+
+Ek logs folder banao aur uske andar 3 alag .txt files likho
