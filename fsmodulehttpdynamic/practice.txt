@@ -1,0 +1,7 @@
+Try these improvements:
+
+Ek /api route banao jo JSON return kare
+
+Ek /projects route banao jo projects.html file serve kare
+
+Sab pages me ek common footer add karo (fs.appendFileSync() se)
